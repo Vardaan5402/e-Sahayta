@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710548783999",
+    "project_id": "e-sahayta-app",
+    "storage_bucket": "e-sahayta-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710548783999:android:49eb8101a9187530c5904a",
+        "android_client_info": {
+          "package_name": "com.example.e_sahayta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAclSoSUklGZM6-DFD4ZNUSeKBAz6GQ7Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
